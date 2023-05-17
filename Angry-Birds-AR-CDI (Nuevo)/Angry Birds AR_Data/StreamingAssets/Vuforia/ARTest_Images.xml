@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Torre_Rectangular" size="10.850000 10.850000" />
+    <ImageTarget name="Torre_Cuadrada" size="10.840000 10.840000" />
+    <ImageTarget name="joker" size="6.200000 8.610042" />
+    <ImageTarget name="as_oros" size="6.100000 9.073554" />
+    <ImageTarget name="as_picas" size="6.200000 8.596891" />
+  </Tracking>
+</QCARConfig>
